@@ -1,7 +1,7 @@
-## USA Regional Sales Analysis Dashboard
+<h2><div align = "center">USA Regional Sales Analysis Dashboard</div></h1> 
 
 ## Overview
-This project analyzes Zonal US sales data (2020–2024) to identify key revenue and profit drivers across products, channels, and regions. It uncovers seasonal trends, outliers, and alignment with budgets to inform pricing, promotion, and market-expansion strategies.
+This project analyzes Zonal corp US sales data (2020–2024) to identify key revenue and profit drivers across products, channels, and regions. It uncovers seasonal trends, outliers, and alignment with budgets to inform pricing, promotion, and market-expansion strategies.
 
 ## Business Objectives
 - Identify top-performing products, channels, and regions driving revenue and profit
@@ -13,7 +13,7 @@ This project analyzes Zonal US sales data (2020–2024) to identify key revenue 
 Publicly available Excel files containing sales, customers, products, regions, state–region mapping, and budgets.
 
 ## Tech Stack
-- **Python (Pandas, NumPy, Matplotlib, Seaborn)** – Data cleaning, feature engineering, exploratory data analysis
+- **Python (Pandas, NumPy, Matplotlib, Seaborn)** – Data cleaning, feature engineering, exploratory      data analysis
 - **Power BI** – Interactive dashboards and visualization
 
 ## Workflow
@@ -35,9 +35,9 @@ Publicly available Excel files containing sales, customers, products, regions, s
 ## Final Dataset Structure
 - **Identifiers:** order_number, order_date, customer_name, channel, product_name
 - **Financials:** quantity, unit_price, revenue, cost, profit, profit_margin_pct
-- **Calendar:** order_month_name, order_month_num, order_month
+- **Calendar:** order_month_name, order_monnth_num, order_month
 - **Geography:** state (code), state_name, us_region, lat, lon
-- **Planning:** budget (2017)
+- **Planning:** budget(2023)
 
 ## Key Insights
 - Pronounced seasonality: January revenues ~$124 M, dipping to ~$95 M in April
@@ -47,29 +47,15 @@ Publicly available Excel files containing sales, customers, products, regions, s
 - Top customers: Aibox Company and State Ltd by revenue
 
 ## Dashboard Overview
+The Power BI report is organized into three interactive pages designed to deliver both high-level and granular insights:
 
-### Page 1: Executive Overview & Trends
-- **Cards:** Total Revenue, Total Profit, Profit Margin %, Total Orders, Revenue per Order
-- **Charts:** 
-  - Monthly Revenue (Line chart)
-  - Monthly Profit (Line chart)
-  - Order Value Spectrum (Stacked column)
-  - Unit Price vs Profit Margin % (Scatter)
+**1.Executive Overview & Trends:** Summarizes key KPIs (Revenue, Proit, Margin%, Orders) and visualizes monthly performance and customer spend distribution.
 
-### Page 2: Product & Channel Performance
-- Top 10 best-selling products by revenue (Stacked Bar)
-- Top 10 products by profit margin % (Stacked Bar)
-- Revenue vs Profitability (Scatter)
-- Total Revenue, Profit, Profit Margin % by channel (Donut charts)
+**2.Product & Channel Performance:** Highlights top-performing products, channels, and profitability trade-offs to inform pricing and sales strategies.
 
-### Page 3: Geographic & Customer Insights
-- Top 5 / Bottom 5 Customers & States (Stacked Bar, toggle buttons)
-- Total Revenue & Profit Margin % by region (Donut charts)
-- Total Profit by state (Map / Bubble chart)
+**Gregraphic & Customer Insights:** Maps revenue and profit trends across U.S. regions, identifies high and low-value customers, and visualizes regional performance.
 
-### Calculated Tables & Measures
-- **Customer Summary**, **Measures**, **Order Value Distribution**
-- Quick measures created for dynamic KPIs
+Dynamic filters, toggle buttons, and calculated measures enhance interactivity and enable deeper analysis.
 
 ## Business Value
 - Supports strategic decision-making by revealing revenue and profit drivers
@@ -77,9 +63,9 @@ Publicly available Excel files containing sales, customers, products, regions, s
 - Identifies customer segments and pricing/margin risks
 - Enables actionable recommendations via interactive dashboards
 
-## Screenshots
-![Executive Overview](images/page1_overview.png)
-![Product & Channel Performance](images/page2_product_channel.png)
-![Geography & Customer Insights](images/page3_geo_customer.png)
+## Dashboard Preview
+**Executive Overview Page**
+![Executive Overview](screenshots
+
 
 
