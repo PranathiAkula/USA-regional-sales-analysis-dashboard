@@ -1,7 +1,7 @@
-# US Regional Sales Analysis – Python & Power BI Dashboard
+<h2> USA Regional Sales Analysis Dashboard </h2>
 
 ## Overview
-This project analyzes Acme Co.’s US sales data (2020–2024) to identify key revenue and profit drivers across products, channels, and regions. It uncovers seasonal trends, outliers, and alignment with budgets to inform pricing, promotion, and market-expansion strategies.
+This project analyzes Zonal US sales data (2020–2024) to identify key revenue and profit drivers across products, channels, and regions. It uncovers seasonal trends, outliers, and alignment with budgets to inform pricing, promotion, and market-expansion strategies.
 
 ## Business Objectives
 - Identify top-performing products, channels, and regions driving revenue and profit
@@ -81,3 +81,4 @@ Publicly available Excel files containing sales, customers, products, regions, s
 ![Executive Overview](images/page1_overview.png)
 ![Product & Channel Performance](images/page2_product_channel.png)
 ![Geography & Customer Insights](images/page3_geo_customer.png)
+
