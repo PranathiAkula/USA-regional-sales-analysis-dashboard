@@ -49,11 +49,11 @@ Publicly available Excel files containing sales, customers, products, regions, s
 ## Dashboard Overview
 The Power BI report is organized into three interactive pages designed to deliver both high-level and granular insights:
 
-**1.Executive Overview & Trends:** Summarizes key KPIs (Revenue, Proit, Margin%, Orders) and visualizes monthly performance and customer spend distribution.
+**1. Executive Overview & Trends:** Summarizes key KPIs (Revenue, Proit, Margin%, Orders) and visualizes monthly performance and customer spend distribution.
 
-**2.Product & Channel Performance:** Highlights top-performing products, channels, and profitability trade-offs to inform pricing and sales strategies.
+**2. Product & Channel Performance:** Highlights top-performing products, channels, and profitability trade-offs to inform pricing and sales strategies.
 
-**Gregraphic & Customer Insights:** Maps revenue and profit trends across U.S. regions, identifies high and low-value customers, and visualizes regional performance.
+**3. Gregraphic & Customer Insights:** Maps revenue and profit trends across U.S. regions, identifies high and low-value customers, and visualizes regional performance.
 
 Dynamic filters, toggle buttons, and calculated measures enhance interactivity and enable deeper analysis.
 
@@ -69,6 +69,7 @@ Dynamic filters, toggle buttons, and calculated measures enhance interactivity a
 ![Product Performance](screenshots/Page2.png)
 ## Geographic and customer Insights
 ![Geographic Insights](screenshots/Page3.png)
+
 
 
 
