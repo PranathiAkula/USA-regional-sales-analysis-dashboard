@@ -63,9 +63,12 @@ Dynamic filters, toggle buttons, and calculated measures enhance interactivity a
 - Identifies customer segments and pricing/margin risks
 - Enables actionable recommendations via interactive dashboards
 
-## Dashboard Preview
-**Executive Overview Page**
-
+## Executive Overview & Trends
+![Executive Overview](screenshots/Page1.png)
+## Product and Channel Performance
+![Product Performance](screenshots/Page2.png)
+## Geographic and customer Insights
+![Geographic Insights](screenshots/Page3.png)
 
 
 
